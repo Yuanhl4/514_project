@@ -5,7 +5,7 @@ Mouth Breathing Helper
 Breathing only from your mouth in long-term will lead to health issues, includes: Malocclusion, Facial differences, Obstructive sleep apnea. The Mouth Breathing Helper will help users to develop the habit to breath through mouth instead of mouth.  
 
 # System expection:  
-ESP32 combined with a distance detector (sound or laser) will measure the distance between the eyes and the stuff.When users’ eyes are too close to books or screens, it will remind users.The timer will count 25min and remind users to stop and relax their eyes.  
+ESP32 combined with a distance detector (sound or laser) will measure the distance between the eyes and the stuff.  When users’ eyes are too close to books or screens, it will remind users.The timer will count 25min and remind users to stop and relax their eyes.  
 
 
 # Sketch
