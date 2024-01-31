@@ -1,8 +1,8 @@
-# 514_project:  Mouth Breathing Helper
+# 514_project:  Mouth Breathing Helper  
 
-# Concept:   Breathing only from your mouth in long-term will lead to health issues, includes: Malocclusion, Facial differences, Obstructive sleep apnea. The Mouth Breathing Helper will help users to develop the habit to breath through mouth instead of mouth.
+# Concept:   Breathing only from your mouth in long-term will lead to health issues, includes: Malocclusion, Facial differences, Obstructive sleep apnea. The Mouth Breathing Helper will help users to develop the habit to breath through mouth instead of mouth.  
 
-# System expection:  ESP32 combined with a distance detector (sound or laser) will measure the distance between the eyes and the stuff.When users’ eyes are too close to books or screens, it will remind users.The timer will count 25min and remind users to stop and relax their eyes.
+# System expection:  ESP32 combined with a distance detector (sound or laser) will measure the distance between the eyes and the stuff.When users’ eyes are too close to books or screens, it will remind users.The timer will count 25min and remind users to stop and relax their eyes.  
 
 # Sketch
 ![IMG_0031](https://github.com/Yuanhl4/514_project/assets/148398211/0eaf5a55-3f8b-4797-8451-45ffa033b0c8)
