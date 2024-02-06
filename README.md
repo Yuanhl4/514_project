@@ -25,7 +25,7 @@ There will be a remote display device to calculate the data of oral breath times
 
 # Sensor Dvice:
 ## Component:
-[ESP32_S3 SeeedXiao](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+[ESP32_S3 SeeedXiao](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)  
 [XL-2012UGC]
 [BS-02-A1AK006]
 [SHT31-DIS-B2.5kS]
