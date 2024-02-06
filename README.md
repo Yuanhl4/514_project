@@ -1,4 +1,4 @@
-# Mouth Breathing Helper: A device help people, especially childfren to have a healthier breath habbit.
+![Untitled_Artwork](https://github.com/Yuanhl4/514_project/assets/148398211/ec4b5fc0-c1b0-4acf-82ef-9f4baf62d8fb)# Mouth Breathing Helper: A device help people, especially childfren to have a healthier breath habbit.
 
 # Overview:  
 ## Concept:
@@ -15,7 +15,7 @@ The humidity and temperature sensor is light enough to be attched to the mask su
 There will be a remote device to calculate the data of oral breath times sent from ESP32 and show it through
 
 # Sketch
-![IMG_0033](https://github.com/Yuanhl4/514_project/assets/148398211/1ce01e11-1fce-459a-a348-364bcc47636f)
+![Untitled_Artwork](https://github.com/Yuanhl4/514_project/assets/148398211/d271fc98-8df1-480b-927c-70a0eb414de5)
 
 # Structure
 ![Untitled presentation](https://github.com/Yuanhl4/514_project/assets/148398211/e62b6324-0643-4723-b7f6-e1a933d44db0)![Uploading Screenshot 2024-02-05 at 9.58.03 PM.png…]()
