@@ -22,8 +22,15 @@ There will be a remote display device to calculate the data of oral breath times
 
 ![Untitled presentation (1)](https://github.com/Yuanhl4/514_project/assets/148398211/e31a490a-55b1-4107-b32a-899af50f92c2)
 
-# Sensro Schematic
+# Sensor Dvice:
+## Component:
+ESP32S3 [SeeedXiao](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+
+## Sensro Schematic
 <img width="1049" alt="Screenshot 2024-01-31 at 12 42 07 PM" src="https://github.com/Yuanhl4/514_project/assets/148398211/1c4e85b8-69dd-4823-a782-bb0c03cb2ec4">
 
-# Screen Schematic
+# Display Device:
+## Component:
+[Automatic Gauge Stepper Motor](https://www.adafruit.com/product/2424)
+## Screen Schematic
 <img width="1070" alt="Screenshot 2024-01-31 at 12 43 44 PM" src="https://github.com/Yuanhl4/514_project/assets/148398211/0850a76c-6608-478f-b74c-aa57dda1689b">
