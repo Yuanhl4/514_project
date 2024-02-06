@@ -37,5 +37,7 @@ There will be a remote display device to calculate the data of oral breath times
 # Display Device:
 ## Component:
 [Automatic Gauge Stepper Motor](https://www.adafruit.com/product/2424)
+[SSD1306]
+[ESP32_S3 SeeedXiao](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
 ## Screen Schematic
 <img width="1070" alt="Screenshot 2024-01-31 at 12 43 44 PM" src="https://github.com/Yuanhl4/514_project/assets/148398211/0850a76c-6608-478f-b74c-aa57dda1689b">
