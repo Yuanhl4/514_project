@@ -1,8 +1,10 @@
 # Mouth Breathing Helper: A device help people, especially childfren to have a healthier breath habbit.
 
 # Overview:  
+##Concept:
 Breathing only from your mouth in long-term will lead to health issues, includes: Malocclusion, Facial differences, Obstructive sleep apnea. The Mouth Breathing Helper will help users to develop the habit to breath through mouth instead of mouth.  
 
+## Structure ideation:
 ESP32 with a humidity and temperature sensor will determine wether the users are breathing through mouth and remind them to stop.
 An remote terminal with a screen and  a counter will show more information of mouth breathing in one day.
 
