@@ -18,9 +18,10 @@ There will be a remote display device to calculate the data of oral breath times
 ![Untitled_Artwork](https://github.com/Yuanhl4/514_project/assets/148398211/d271fc98-8df1-480b-927c-70a0eb414de5)
 
 # Structure
-![Untitled presentation](https://github.com/Yuanhl4/514_project/assets/148398211/e62b6324-0643-4723-b7f6-e1a933d44db0)![Uploading Screenshot 2024-02-05 at 9.58.03 PM.png…]()
-
+![Untitled presentation](https://github.com/Yuanhl4/514_project/assets/148398211/e62b6324-0643-4723-b7f6-e1a933d44db0)
 ![Untitled presentation (1)](https://github.com/Yuanhl4/514_project/assets/148398211/e31a490a-55b1-4107-b32a-899af50f92c2)
+<img width="897" alt="Screenshot 2024-02-06 at 1 20 21 PM" src="https://github.com/Yuanhl4/514_project/assets/148398211/035d2e89-7d4a-4a56-8d16-788bfcb0c161">
+
 
 # Sensor Dvice:
 ## Component:
