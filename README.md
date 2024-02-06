@@ -25,9 +25,14 @@ There will be a remote display device to calculate the data of oral breath times
 # Sensor Dvice:
 ## Component:
 [ESP32_S3 SeeedXiao](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+[XL-2012UGC]
+[BS-02-A1AK006]
+[SHT31-DIS-B2.5kS]
+[XKB5858-Z-TP]
+[LCM1027A2445F]
 
 ## Sensro Schematic
-<img width="1049" alt="Screenshot 2024-01-31 at 12 42 07 PM" src="https://github.com/Yuanhl4/514_project/assets/148398211/1c4e85b8-69dd-4823-a782-bb0c03cb2ec4">
+<img width="1132" alt="Screenshot 2024-02-06 at 12 56 10 PM" src="https://github.com/Yuanhl4/514_project/assets/148398211/9bda4399-8837-4ece-8e28-f505df9630ae">
 
 # Display Device:
 ## Component:
