@@ -12,7 +12,7 @@ An remote terminal with a screen and  a counter will show more information of mo
 ## Comfortability
 The humidity and temperature sensor is light enough to be attched to the mask surface without being noticed. Besides, the snsors will be linked with ESP32 board through wire, so the controller can be fixed on the mask, the area next to the ears, through a clip. The user experience will be close to having a earpod and a mask.
 ## Remote device
-There will be a remote device to calculate the data of oral breath times sent from ESP32 and show it through
+There will be a remote device to calculate the data of oral breath times sent from ESP32 and show it through a mechanical counter. Besides, there will be a OLED display to show some suggections to users to improve their habbit and get used to the new way to breath.
 
 # Sketch
 ![Untitled_Artwork](https://github.com/Yuanhl4/514_project/assets/148398211/d271fc98-8df1-480b-927c-70a0eb414de5)
