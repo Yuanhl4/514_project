@@ -1,5 +1,3 @@
-![Untitled_Artwork](https://github.com/Yuanhl4/514_project/assets/148398211/ec4b5fc0-c1b0-4acf-82ef-9f4baf62d8fb)# Mouth Breathing Helper: A device help people, especially childfren to have a healthier breath habbit.
-
 # Overview:  
 ## Concept:
 Breathing only from your mouth in long-term will lead to health issues, includes: Malocclusion, Facial differences, Obstructive sleep apnea. The Mouth Breathing Helper will help users to develop the habit to breath through mouth instead of mouth.  
